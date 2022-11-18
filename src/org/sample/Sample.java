@@ -6,5 +6,10 @@ public class Sample {
 		System.out.println("Code1");
 
 	}
+	
+	//Prince code
+	private void code3() {
+		System.out.println("code3");
+	}
 
 }
